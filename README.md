@@ -44,7 +44,7 @@ Dyal Singh College, Karnal
 
 My portfolio website will be available here:
 
-https://codebytimsi.github.io/portfolio/
+https://codebytimsi.github.io/portfolio
 
 📫 Connect With Me
 
