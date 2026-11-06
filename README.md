@@ -1,57 +1,93 @@
-Hi, I'm Timsi Thukral 👋🏻
+Timsi Thukral — Personal Portfolio
 
-BCA Student | Aspiring Data & IT Professional
+A personal portfolio website showcasing my journey as a BCA student and aspiring web developer.
 
-Welcome to my personal portfolio repository! 🌷
+🌐 Live Portfolio: https://codebytimsi.github.io/portfolio/
 
-This repository contains the source code for my personal portfolio website, where I showcase my learning journey, technical skills, education, and future projects.
+✦ About
 
-🌸 About Me
+This portfolio represents my journey into web development, where I'm building practical projects and strengthening my skills through hands-on development.
 
-I'm a BCA student interested in Data Analytics, IT, programming, and web development.
+I'm currently focused on frontend development and gradually moving toward full-stack web development.
 
-I'm currently building my technical foundation and looking for opportunities to gain practical industry experience through internships and real-world projects.
+Alongside web development, I also have a foundation in SQL, Python, Excel and Power BI, which gives me an additional problem-solving and data-oriented perspective.
 
-🛠️ Skills
+🛠️ Tech Stack
 
-- SQL
-- Microsoft Excel
-- Power BI
-- Python
-- Java
-- C
-- HTML
-- CSS
+Web Development
+
+- HTML5
+- CSS3
 - JavaScript
-- Git & GitHub
-- Tableau
+
+Programming & Data
+
+- Java
+- Python
+- SQL
+- Excel
+- Power BI
+
+Currently Learning
+
+- React.js
+- Node.js
+- Express.js
+- REST APIs
+
+Tools
+
+- Git
+- GitHub
+- GitHub Pages
+
+🚀 Featured Project
+
+SITARA — Jewellery E-Commerce Website
+
+A responsive jewellery e-commerce website built from scratch using HTML, CSS and JavaScript.
+
+Features:
+
+- Dynamic product rendering
+- Product search
+- Category filtering
+- Product sorting
+- Individual product pages
+- Quantity management
+- Shopping cart
+- LocalStorage cart persistence
+- Responsive design
+
+Tech: HTML5 · CSS3 · JavaScript · LocalStorage
+
+🔗 Live Demo: https://codebytimsi.github.io/sitara-jewellery-store/
+
+📂 Source Code: https://github.com/codebytimsi/sitara-jewellery-store
 
 🎓 Education
 
-Bachelor of Computer Applications (BCA)  
-Dyal Singh College, Karnal  
-2025 – 2028
+Bachelor of Computer Applications (BCA)
+Dyal Singh College, Karnal
+Expected Graduation: 2028
 
-🌱 Currently Learning
+🎯 Goals
 
-- Data Analytics
-- Power BI
-- Data Visualization
-- Git & GitHub
-- Building practical projects
+I'm working toward becoming a strong full-stack web developer by:
 
-🌐 Portfolio
+- Building real-world projects
+- Strengthening JavaScript fundamentals
+- Learning React and backend development
+- Understanding APIs and databases
+- Gaining practical internship experience
+- Continuously improving my problem-solving skills
 
-My portfolio website will be available here:
+More projects will be added as I continue learning and building.
 
-https://codebytimsi.github.io/portfolio
+📌 Portfolio
 
-📫 Connect With Me
-
-- Email: thukraltimsi@gmail.com
-- LinkedIn: https://www.linkedin.com/in/timsi-thukral-325b06448
-- GitHub: https://github.com/codebytimsi
+🌐 https://codebytimsi.github.io/portfolio/
 
 ---
 
-✨ *Learning, building, and growing one project at a time.*
+Building projects. Learning every day. Growing one commit at a time. ✦
