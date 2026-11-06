@@ -7,6 +7,10 @@ const navLinks = document.querySelector(".nav-links");
 // Open / close mobile menu
 menuBtn.addEventListener("click", () => {
     navLinks.classList.toggle("active");
+
+    const isOpen = navLinks.classList.contains("active");
+
+    menuBtn.setAttribute("aria-expanded", isOpen);
 });
 
 
